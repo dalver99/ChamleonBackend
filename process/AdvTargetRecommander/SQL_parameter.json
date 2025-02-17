@@ -1,0 +1,7 @@
+{
+    "host":"big09db.mysql.database.azure.com",
+    "port":3306,
+    "username":"big09_read",
+    "password":"P@ssw0rd",
+    "database":"big092"
+}

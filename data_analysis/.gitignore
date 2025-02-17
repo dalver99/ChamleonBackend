@@ -1,0 +1,14 @@
+*.shp
+*.cpg
+*.dbf
+*.prj
+*.qix
+*.qmd
+*.shx
+*.csv
+*.txt
+*.json
+/used_data
+!requirements.txt
+*/*/.ipynb_checkpoints
+*/*/*/.ipynb_checkpoints

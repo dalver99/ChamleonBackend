@@ -1,0 +1,3 @@
+1. 프롬프트를 main_pcafa.py가 포함된 경로로 설정
+2. python main_pcafa.py --target '등록된 회사 명' --threshold '1 이하 권장, default=1, 필수 아님' 실행
+3. 출력 결과 확인

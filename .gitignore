@@ -1,0 +1,62 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# main_file
+api_key.txt
+analysis_data/climate_api_key.txt
+Dockerfile
+DigiCertGlobalRootCA.crt.pem
+db_test.py
+test.db
+test.sqbpro
+migration/
+process/AdvPlaylistGenerator/PerviousCode/
+analysis_data/CollectData/IgnoreData/
+analysis_data/Climate/input_data/
+analysis_data/Population/IgnoreData/
+alembic.ini
+.env
+
+# data and checkpoint folders
+process/gazevolo_fastapi/models/
+*.mp4
+
+process/AdvExposureGenerator/naver_api_key.json
+process/gazevolo_fastapi/imgur_api.json
+process/SQL_parameter.json
+
+*.shp
+*.cpg
+*.dbf
+*.prj
+*.qix
+*.qmd
+*.shx
+*.csv
+*.txt
+*.json
+/used_data
+!requirements.txt
+*/*/*/.ipynb_checkpoints
+*/*/*/*/.ipynb_checkpoints
